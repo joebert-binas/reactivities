@@ -6,3 +6,5 @@ Material Icon Theme
 
 
 dotnet ef migrations add InitialCreate -p Persistence/ -s API/
+
+test
