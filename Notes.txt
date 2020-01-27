@@ -1,0 +1,8 @@
+Auto Close Tag
+Auto Rename Tag
+Bracket Pair Colorizer 2
+ES7 React/Redux/GeaphSQL/Reach-Native snippets
+Material Icon Theme
+
+
+dotnet ef migrations add InitialCreate -p Persistence/ -s API/
